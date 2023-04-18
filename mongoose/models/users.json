@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "622c9c00d35404e7a4d38ece"
+  },
+  "username": "akineni",
+  "password": "$2b$10$oQAtmMfhqnUKFz4yfvKm/.8F9JGlwWJ9IQXYa0v3QslGQ4J6ysXfK",
+  "avatar": "https://bootdey.com/img/Content/avatar/avatar1.png"
+},{
+  "_id": {
+    "$oid": "6230f92090ed663fa4dc3257"
+  },
+  "username": "kelvin",
+  "password": "$2b$10$srvZ8MRN20xTAGt5e04Xh.J00HzhZoI1kIL/7Xof76Dxceeu.uqdC",
+  "avatar": "https://bootdey.com/img/Content/avatar/avatar2.png"
+},{
+  "_id": {
+    "$oid": "6230f9e190ed663fa4dc3259"
+  },
+  "username": "angel",
+  "password": "$2b$10$FXRD1xXiGmUALk2NQpbzKOs4XvoTSmIYkDXb/KW3L3hZ/19RHFTmW",
+  "avatar": "https://bootdey.com/img/Content/avatar/avatar5.png"
+},{
+  "_id": {
+    "$oid": "6230fa1190ed663fa4dc325a"
+  },
+  "username": "jacob",
+  "password": "$2b$10$91JEyq8VTj5THMRwNDWj6uL1Cby76ZdSIL5XAVfpuu.qaYxxeNS7m",
+  "avatar": "https://bootdey.com/img/Content/avatar/avatar4.png"
+},{
+  "_id": {
+    "$oid": "6230fa4b90ed663fa4dc325b"
+  },
+  "username": "loveth",
+  "password": "$2b$10$a/gPD.WQkHbsaFZ6RWfuWOoCgnkB1XJsIL4.5hVxKBx/3ZTT5UuDy",
+  "avatar": "https://bootdey.com/img/Content/avatar/avatar3.png"
+}]

@@ -1,0 +1,3 @@
+[submodule "view/chattoo"]
+	path = view/chattoo
+	url = https://github.com/akineni/chattoo.git
